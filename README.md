@@ -11,4 +11,5 @@ Call the ParseMetar function with the raw Metar data. The function will return p
 - If Conditions are Clear
 - Temperature in Celsius
 - Dew Point in Celsius
+- Humidity
 - Pressure in inHg
