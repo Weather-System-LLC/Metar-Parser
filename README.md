@@ -2,7 +2,7 @@
 
 Call the ParseMetar function with the raw Metar data. The function will return parsed data from the Metar data.
 
-#Data Returned
+# Data Returned
 
 - Station Name
 - Wind Direction in Degrees
