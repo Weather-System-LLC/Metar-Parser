@@ -12,4 +12,4 @@ Call the ParseMetar function with the raw Metar data. The function will return p
 - Temperature in Celsius
 - Dew Point in Celsius
 - Humidity
-- Pressure in inHg
+- Pressure in Inches of Mercury
